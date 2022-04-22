@@ -107,5 +107,4 @@ Final Query: `select id from prob_goblin where (id='guest' and no=2) OR no=2`
 
 Have a bowl of udon and sashimi!
 
-<img src="https://4.bp.blogspot.com/-s9haeFPrRc0/U5hUac1x-SI/AAAAAAAAhI4/Ob9UAm8_sMk/s400/bukkake_udon.png" width=200px>
-<img src="https://4.bp.blogspot.com/-NHTUWbcy_Wc/VMIt3Ie-4BI/AAAAAAAAqzY/gkFCt304v4k/s400/sashimi_hamachi.png" width=150px>
+<img src="https://4.bp.blogspot.com/-s9haeFPrRc0/U5hUac1x-SI/AAAAAAAAhI4/Ob9UAm8_sMk/s400/bukkake_udon.png" width=200px><img src="https://4.bp.blogspot.com/-NHTUWbcy_Wc/VMIt3Ie-4BI/AAAAAAAAqzY/gkFCt304v4k/s400/sashimi_hamachi.png" width=150px>
