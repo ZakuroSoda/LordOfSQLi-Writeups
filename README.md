@@ -2,7 +2,7 @@
 
 At [los.rubiya.kr](https://los.rubiya.kr/).
 
-### Gremlin:
+### Gremlin
 
 ```php
 Challenge:
